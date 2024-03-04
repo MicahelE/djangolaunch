@@ -316,7 +316,7 @@ function displayData() {
       }
       // else
       // {
-      //   alert('Nothing yet')
+      //   alert('Nothing yet') g
       //   console.log("Entries all displayed.");
       // }
       delButtons = document.querySelectorAll('.delete');
